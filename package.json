@@ -1,0 +1,14 @@
+{
+	"name": "Skynet",
+	"version": "1.0.0",
+	"author": {
+		"name": "Tamal Mukherjee",
+		"email": "tamalhunk@gmail.com"
+	},
+	"license": "Private",
+	"private": true,
+	"dependencies": {
+		"request": "~2.36.0",
+		"cheerio": "~0.17.0"
+	}
+}
